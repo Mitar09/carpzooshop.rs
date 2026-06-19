@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "generated_at": "2026-06-19T16:39:14+00:00",
+  "generated_at": "2026-06-19T21:05:13+00:00",
   "items": {
     "aditivi-i-arome-za-pecanje": {
       "file_name": "aditivi-i-arome-za-pecanje.webp",
@@ -1602,6 +1602,22 @@
       "updated_at": "2026-06-19T16:39:14+00:00",
       "version": 1
     },
+    "stapovi-za-morski-ribolov": {
+      "file_name": "stapovi-za-morski-ribolov.webp",
+      "file_sha256": "1367960a16bb7bffcb712228a3cf951fbd5464e6c137dae84f08b374d1ee606a",
+      "filename": "stapovi-za-morski-ribolov.webp",
+      "github_path": "categories/stapovi-za-morski-ribolov.webp",
+      "image_name": "stapovi-za-morski-ribolov",
+      "image_url": "https://raw.githubusercontent.com/Mitar09/carpzooshop.rs/main/categories/stapovi-za-morski-ribolov.webp?v=1",
+      "kind": "category",
+      "mime_type": "image/webp",
+      "output_name": "stapovi-za-morski-ribolov",
+      "path": "categories/stapovi-za-morski-ribolov.webp",
+      "raw_url": "https://raw.githubusercontent.com/Mitar09/carpzooshop.rs/main/categories/stapovi-za-morski-ribolov.webp?v=1",
+      "source_url": "https://wildhunter.ie/cdn/shop/articles/Sea_Fishing_Rods_d3a1d963-b84b-4b5f-9ae6-c0154f89d4e2.png",
+      "updated_at": "2026-06-19T21:05:13+00:00",
+      "version": 1
+    },
     "stapovi-za-pecanje": {
       "file_name": "stapovi-za-pecanje.webp",
       "file_sha256": "e4151e7fab4f7064da54949b398e52f66f5853ac7890beee9ca1bfa20872958d",
@@ -1760,6 +1776,22 @@
       "raw_url": "https://raw.githubusercontent.com/Mitar09/carpzooshop.rs/main/categories/takmiarci-za-pecanje.webp?v=1",
       "source_url": "https://www.pmlfishing.hr/images/thumbs/0010392_direktasi-pecalice.jpeg",
       "updated_at": "2026-06-19T11:24:37+00:00",
+      "version": 1
+    },
+    "takmicarci-za-pecanje": {
+      "file_name": "takmicarci-za-pecanje.webp",
+      "file_sha256": "3254a488e92ecbdd3eb336a008c0a591189586396467042dd6fe99ad1173526f",
+      "filename": "takmicarci-za-pecanje.webp",
+      "github_path": "categories/takmicarci-za-pecanje.webp",
+      "image_name": "takmicarci-za-pecanje",
+      "image_url": "https://raw.githubusercontent.com/Mitar09/carpzooshop.rs/main/categories/takmicarci-za-pecanje.webp?v=1",
+      "kind": "category",
+      "mime_type": "image/webp",
+      "output_name": "takmicarci-za-pecanje",
+      "path": "categories/takmicarci-za-pecanje.webp",
+      "raw_url": "https://raw.githubusercontent.com/Mitar09/carpzooshop.rs/main/categories/takmicarci-za-pecanje.webp?v=1",
+      "source_url": "https://www.pmlfishing.hr/images/thumbs/0010392_direktasi-pecalice.jpeg",
+      "updated_at": "2026-06-19T21:05:13+00:00",
       "version": 1
     },
     "tapovi-za-dubinski-ribolov": {
@@ -2208,6 +2240,22 @@
       "raw_url": "https://raw.githubusercontent.com/Mitar09/carpzooshop.rs/main/categories/varalice.webp?v=1",
       "source_url": "https://www.pmlfishing.hr/images/thumbs/0016913_varalice-za-ribolov.webp",
       "updated_at": "2026-06-19T11:24:37+00:00",
+      "version": 1
+    },
+    "vestacki-mamci-za-pecanje": {
+      "file_name": "vestacki-mamci-za-pecanje.webp",
+      "file_sha256": "4dfd5e4d8d3f20f05737f35e568d5a3b24b097d7e03c20d8acb2d090b6d85bad",
+      "filename": "vestacki-mamci-za-pecanje.webp",
+      "github_path": "categories/vestacki-mamci-za-pecanje.webp",
+      "image_name": "vestacki-mamci-za-pecanje",
+      "image_url": "https://raw.githubusercontent.com/Mitar09/carpzooshop.rs/main/categories/vestacki-mamci-za-pecanje.webp?v=1",
+      "kind": "category",
+      "mime_type": "image/webp",
+      "output_name": "vestacki-mamci-za-pecanje",
+      "path": "categories/vestacki-mamci-za-pecanje.webp",
+      "raw_url": "https://raw.githubusercontent.com/Mitar09/carpzooshop.rs/main/categories/vestacki-mamci-za-pecanje.webp?v=1",
+      "source_url": "https://anglersemporium.com/cdn/shop/articles/fake-corn-carp-fishing.jpg",
+      "updated_at": "2026-06-19T21:05:13+00:00",
       "version": 1
     },
     "vetaki-mamci-za-pecanje": {
