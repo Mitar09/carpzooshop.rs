@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "generated_at": "2026-06-19T11:13:17+00:00",
+  "generated_at": "2026-06-19T15:54:05+00:00",
   "items": {
     "aqua-garant-betain-green": {
       "file_name": "aqua-garant-betain-green.webp",
@@ -1556,19 +1556,19 @@
     },
     "carp-spirit-majica-l": {
       "file_name": "carp-spirit-majica-l.webp",
-      "file_sha256": "d69815cad3b981a789d7d376a0bb1cb97aaf4a8e6f814a4db5fa4cac5c4bbfa3",
+      "file_sha256": "ca3ac48a32ffa86803d44f2f29f0a812e38e06deab0062e050473c47d2aae243",
       "filename": "carp-spirit-majica-l.webp",
       "github_path": "products/0003/carp-spirit-majica-l.webp",
       "image_name": "carp-spirit-majica-l",
-      "image_url": "https://raw.githubusercontent.com/Mitar09/carpzooshop.rs/main/products/0003/carp-spirit-majica-l.webp?v=1",
+      "image_url": "https://raw.githubusercontent.com/Mitar09/carpzooshop.rs/main/products/0003/carp-spirit-majica-l.webp?v=2",
       "kind": "product",
       "mime_type": "image/webp",
       "output_name": "carp-spirit-majica-l",
       "path": "products/0003/carp-spirit-majica-l.webp",
-      "raw_url": "https://raw.githubusercontent.com/Mitar09/carpzooshop.rs/main/products/0003/carp-spirit-majica-l.webp?v=1",
-      "source_url": "https://sportano.cz/img/986c30c27a3d26a3ee16c136f92f4ff5/3/4/3422993058078_19-jpg/rybarske-tricko-carp-spirit-tshirt-cs-green-acs680072-0.jpg",
-      "updated_at": "2026-06-19T11:13:16+00:00",
-      "version": 1
+      "raw_url": "https://raw.githubusercontent.com/Mitar09/carpzooshop.rs/main/products/0003/carp-spirit-majica-l.webp?v=2",
+      "source_url": "https://huntworld.de/upload/iblock/0c0/carp_spirit_tshirt_charcoal.jpeg",
+      "updated_at": "2026-06-19T15:54:05+00:00",
+      "version": 2
     },
     "carp-spirit-majica-l-2": {
       "file_name": "carp-spirit-majica-l-2.webp",
