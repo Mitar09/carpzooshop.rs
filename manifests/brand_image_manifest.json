@@ -1,7 +1,7 @@
 {
   "branch": "main",
   "expected_count": 20,
-  "generated_at": "2026-06-21T22:06:19+00:00",
+  "generated_at": "2026-06-21T22:08:19+00:00",
   "generated_from": "google_sheets_plus_github_inventory",
   "items": {
     "carp-spirit-ribolovacka-oprema": {
@@ -19,7 +19,7 @@
       "row": 15,
       "sheet": "brendovi",
       "source_url": "https://worcesteranglingcentre.co.uk/wp-content/uploads/2023/03/carp-spirit.png",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "28a5ff66aa06457874d1e980c2253c85a7f4ebd9"
     },
     "carp-system-ribolovacka-oprema": {
@@ -37,7 +37,7 @@
       "row": 12,
       "sheet": "brendovi",
       "source_url": "https://www.carp-system.com/wp-content/uploads/2019/11/cs-logo-crop-SLIDER.png",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "28f0914f50b17092d4519b22ff8a1cd551012c27"
     },
     "cresta-ribolovacka-oprema": {
@@ -55,7 +55,7 @@
       "row": 11,
       "sheet": "brendovi",
       "source_url": "https://ekspert-sklep.pl/userdata/public/producers/2132.jpg",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "9afb6cc75bf1961d3d2c6bd76067286d99c3cf1e"
     },
     "dam-fishing-ribolovacka-oprema": {
@@ -73,7 +73,7 @@
       "row": 3,
       "sheet": "brendovi",
       "source_url": "https://barracudashop.eu/cdn/shop/collections/COLLECTIONS_BRANDS_FISH_4.png",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "32f6b937e66466eb3a08670195e62a5c4c9f8753"
     },
     "dome-gabor-ribolovacka-oprema": {
@@ -91,7 +91,7 @@
       "row": 13,
       "sheet": "brendovi",
       "source_url": "https://fishingtime.hu/kepek/horgasz-webshop-markak/146_by-dome.jpg",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "fdd808da9bbba1e741183bb518828dd03ed0850f"
     },
     "gamakatsu-ribolovacka-oprema": {
@@ -109,7 +109,7 @@
       "row": 4,
       "sheet": "brendovi",
       "source_url": "https://m.media-amazon.com/images/S/abs-image-upload-na/2/AmazonStores/ATVPDKIKX0DER/3432e13278b97567298f425e16731703.w3000.h600._CR0%2C0%2C3000%2C600_SX3000_.png",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "30bd858b45ff1cc0e1353d711cfd138b473541d1"
     },
     "golden-fish-primama-za-pecanje": {
@@ -127,7 +127,7 @@
       "row": 21,
       "sheet": "brendovi",
       "source_url": "https://predatorptr.com/wp-content/uploads/2019/03/Golden-Fish-Perfect-Yellow-Mix-2-sajt-opt-600x600.jpg",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "197e31ffe76ad63e1f9a7485120755e3529e103d"
     },
     "kamasan-oprema-za-pecanje": {
@@ -145,7 +145,7 @@
       "row": 20,
       "sheet": "brendovi",
       "source_url": "https://asribolov.rs/wp-content/uploads/2026/02/kamasan-logo.jpg",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "b9f80f1b2dce5024dc19ce9c4eaf31595105827a"
     },
     "maxi-baits-primama-za-pecanje": {
@@ -163,7 +163,7 @@
       "row": 18,
       "sheet": "brendovi",
       "source_url": "https://carpzooshop.rs/wp-content/uploads/sites/5/2026/06/viber_slika_2026-06-12_21-13-52-231.png",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "54e3d0b5062fd45d77a5d7779d40c6aea2a620ca"
     },
     "mivardi-ribolovacka-oprema": {
@@ -181,7 +181,7 @@
       "row": 8,
       "sheet": "brendovi",
       "source_url": "https://2025.ibcc.hu/wp-content/uploads/2025/02/sectorsponsor-Mivardi-1.png",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "335ab823ba09e1504f7993fe12a557f327af86ad"
     },
     "mustad-ribolovacka-oprema": {
@@ -199,7 +199,7 @@
       "row": 10,
       "sheet": "brendovi",
       "source_url": "https://wp.logos-download.com/wp-content/uploads/2024/03/Mustad_Fishing_Logo.png",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "86c525f85249a97b4f1bef8a0e46ca1eb40f0df8"
     },
     "nytro-ribolovacka-oprema": {
@@ -217,7 +217,7 @@
       "row": 7,
       "sheet": "brendovi",
       "source_url": "https://www.soartackle.co.uk/cdn/shop/collections/Nytro-Logos-02.jpg",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "924bbf525b152f6a35bffd2dd89993634cadffe8"
     },
     "okuma-ribolovacka-oprema": {
@@ -235,7 +235,7 @@
       "row": 16,
       "sheet": "brendovi",
       "source_url": "https://i.pinimg.com/736x/f7/a0/a6/f7a0a678be734a4dccacc9dbaf6e2b4c.jpg",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "30448f9fe40628848a970cb6493db2571eaa1baa"
     },
     "prologic-ribolovacka-oprema": {
@@ -253,7 +253,7 @@
       "row": 2,
       "sheet": "brendovi",
       "source_url": "https://ribocentar.com/cdn/shop/collections/PROLOGIC.jpg",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "d1f8dd0b5889198a37ed4afc1dfb4fae08f7bb02"
     },
     "savage-gear-ribolovacka-oprema": {
@@ -271,7 +271,7 @@
       "row": 6,
       "sheet": "brendovi",
       "source_url": "https://shop.baltic-heiligenhafen.de/media/image/aa/64/3f/Savage-gear.png",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "940013f11f2cec09541216c324f2e09e288e1f3f"
     },
     "spiderwire-ribolovacka-oprema": {
@@ -289,7 +289,7 @@
       "row": 14,
       "sheet": "brendovi",
       "source_url": "https://nordfishing77.imgbo.lt/media/26/04/b6/1697706514/Spiderwire%20Logo.png",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "30bf34c12161146a7a5a086f964aa697029c16a9"
     },
     "strategy-ribolovacka-oprema": {
@@ -307,7 +307,7 @@
       "row": 9,
       "sheet": "brendovi",
       "source_url": "https://strategycarp.com/wp-content/uploads/2022/04/Strategy_Homepage_Featured_Image.jpg",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "1364a5331bd954fdf0790ec8461181902d83b586"
     },
     "sufix-ribolovacka-oprema": {
@@ -325,7 +325,7 @@
       "row": 17,
       "sheet": "brendovi",
       "source_url": "https://sufixfishingline.com/wp-content/uploads/2024/04/sufix-fishing-official-logo.png",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "87eb29f4f0425da34eed3ef99742bc22afec3ff7"
     },
     "top-mix-primama-za-pecanje": {
@@ -343,7 +343,7 @@
       "row": 19,
       "sheet": "brendovi",
       "source_url": "https://asribolov.rs/wp-content/uploads/2023/11/TOP-MIX-2013.jpg",
-      "updated_at": "2026-06-21T22:06:19+00:00",
+      "updated_at": "2026-06-21T22:08:19+00:00",
       "version": "1f54dffa585cd77311628ada65711128e6183dad"
     }
   },
